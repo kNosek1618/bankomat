@@ -12,7 +12,7 @@ string nic;
 int main()
 {
 	cout << "Witaj w naszym banku!" << endl;
-	cout << endl << "wloz karte i poczekaj 10 sekunad:" << endl;
+	cout << endl << "wloz karte i poczekaj 10 sekund:" << endl;
 	Sleep(2000);
 	for (int i = 1; i <= 10; i++)
 	{
@@ -45,7 +45,7 @@ int main()
 	}
 	if ((proba == 4) && (liczba != PIN))
 	{
-		cout << endl << "    !ZABLOKOWALES KARTssswsssE!" << endl;
+		cout << endl << "    !ZABLOKOWALES KARTE!" << endl;
 	}
 
 

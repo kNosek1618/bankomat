@@ -45,7 +45,7 @@ int main()
 	}
 	if ((proba == 4) && (liczba != PIN))
 	{
-		cout << endl << "    !ZABLOKOWALES KARTssE!" << endl;
+		cout << endl << "    !ZABLOKOWALES KARTsswsssE!" << endl;
 	}
 
 
